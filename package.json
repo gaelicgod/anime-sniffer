@@ -1,0 +1,24 @@
+{
+  "name": "anime-sniffer",
+  "version": "1.0.0",
+  "description": "a sniffer for finding anime on your filesystem, uses an API to get info",
+  "main": "index.js",
+  "repository": "https://github.com/gaelicgod/anime-sniffer.git",
+  "author": "Bevan Christians <gaelicgod@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/enzyme": "^3.1.12",
+    "@types/jest": "^23.3.1",
+    "@types/react": "^16.4.7",
+    "@types/react-dom": "^16.0.6",
+    "enzyme": "^3.3.0",
+    "jest": "^23.4.2",
+    "tailwindcss": "^0.6.4",
+    "typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
